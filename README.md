@@ -16,6 +16,7 @@
 ---
 # โครงสร้างไฟล์ของโปรเจค Chatbot
 chatbot_project
+
 -chatbot.py                
 -chatbot.ipynb             
 -questions_and_answers.csv  
